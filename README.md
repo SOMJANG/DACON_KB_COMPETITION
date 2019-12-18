@@ -16,3 +16,8 @@
 >RANK : 25
 
 > Detail Info : https://bit.ly/2PnP7cd
+
+### DAY 04 (2019/12.17 Tue)
+>RANK : 26
+
+>Detail Info : https://bit.ly/36NBhWD
