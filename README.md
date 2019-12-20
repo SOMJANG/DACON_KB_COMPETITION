@@ -30,4 +30,9 @@
 ### DAY 06 (2019.12.19 Thu)
 >RANK : 19
 
-> Detail Info : https://bit.ly/38Tj5N2
+>Detail Info : https://bit.ly/38Tj5N2
+
+### DAY 07 (2019.12.20 Fri)
+>RANK : 20
+
+>Detail Info : https://bit.ly/2ZbiguI
