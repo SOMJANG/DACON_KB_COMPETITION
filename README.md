@@ -36,3 +36,5 @@
 >RANK : 20
 
 >Detail Info : https://bit.ly/2ZbiguI
+
+### DAY 8 (2019.12.21 Sat)
