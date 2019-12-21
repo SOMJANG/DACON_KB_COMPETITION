@@ -1,4 +1,4 @@
-# DACON_KB_COMPETITION
+#DACON_KB_COMPETITION
 
 ## Start 2019.12.14 Saturday
 
@@ -38,3 +38,6 @@
 >Detail Info : https://bit.ly/2ZbiguI
 
 ### DAY 8 (2019.12.21 Sat)
+>RANK : 20
+
+>Detail Info : https://bit.ly/35NBJUs
