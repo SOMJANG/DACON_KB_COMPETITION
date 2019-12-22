@@ -37,7 +37,12 @@
 
 >Detail Info : https://bit.ly/2ZbiguI
 
-### DAY 8 (2019.12.21 Sat)
+### DAY 08 (2019.12.21 Sat)
 >RANK : 20
 
 >Detail Info : https://bit.ly/35NBJUs
+
+### DAY 09 (2019.12.22 Sun)
+>RANK : 21
+
+>Detail Info : https://bit.ly/2ZdpFJK
