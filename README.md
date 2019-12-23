@@ -46,3 +46,8 @@
 >RANK : 21
 
 >Detail Info : https://bit.ly/2ZdpFJK
+
+### DAY 10 (2019.12.23 Mon)
+>RANK : 22
+
+>Detail Info : https://bit.ly/2PRQ4cU
